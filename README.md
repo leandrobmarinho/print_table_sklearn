@@ -1,4 +1,4 @@
-## Yolo marker
+## Print table with results from Scikit-learn
 
 ![](screen.png?raw=true)
 
